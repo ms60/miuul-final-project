@@ -1,7 +1,4 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: linux-64
-streamlit=1.29.0=pypi_0
-pandas=2.1.4=py39h1128e8f_0
-joblib=1.2.0=py39h06a4308_0
+streamlit==1.29.0
+pandas==2.1.4
+joblib==1.2.0
 
